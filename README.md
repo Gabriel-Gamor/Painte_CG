@@ -23,6 +23,8 @@ Este projeto é um programa em C que permite a criação, manipulação e visual
 
 ## Instruções para Execução do Projeto
 
+- Instalar em C:\MinGW (<MINGW_HOME>) -> Na instalação do MinGW, instalar os pacotes básicos “mingw32-base”, “mingw32-gcc-g++” e “msys-base” -> Colocar os diretórios <MINGW_HOME>\bin e <MINGW_HOME>\msys\1.0\bin na variável de ambiente Path do Windows -> Faça a Instalação das bibliotecas GLU e FreeGLUT (GLUT) no MinGW
+- Execulte "../bin/Debug/Painte_CG.exe" Ou Importe o Projeto para o CodeBlocks e execulte
 
 ## Instrução Para Uso
 ### Menu de Contexto

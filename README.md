@@ -2,6 +2,8 @@
 
 Este projeto é um programa em C que permite a criação, manipulação e visualização de objetos geométricos, incluindo pontos, segmentos de reta e polígonos, utilizando a biblioteca OpenGL e GLUT para renderização gráfica.
 
+OBS: Esse é um porte do projeto para Windows, o projeto original feito no Ubuntu 24.02 está no repositorio https://github.com/LucasAngel0/Paint_CG
+
 ## Funcionalidades
   - Criar Objetos: Permite criar pontos, segmentos de reta e polígonos na tela utilizando o mouse.
   - Selecionar Objetos: Seleciona objetos criados para manipulação.

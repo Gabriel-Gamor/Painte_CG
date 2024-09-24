@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<unistd.h>
+	<time.h>
+	"matriz.h"
+	"poligono.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\matriz.h
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\poligono.h
+	<stdbool.h>
+	"reta.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\reta.h
+	"ponto.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\ponto.h
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\matriz.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\poligono.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"poligono.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ponto.h"
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\paint_cg-main\reta.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"reta.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\painte_cg\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<unistd.h>
+	<time.h>
+	"matriz.h"
+	"poligono.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\painte_cg\matriz.h
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\painte_cg\poligono.h
+	<stdbool.h>
+	"reta.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\painte_cg\reta.h
+	"ponto.h"
+
+1727206015 c:\users\gabriel moreira\desktop\painte opengl\painte_cg\ponto.h
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\painte_cg\matriz.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\painte_cg\poligono.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"poligono.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\painte_cg\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ponto.h"
+	"matriz.h"
+
+1727206015 source:c:\users\gabriel moreira\desktop\painte opengl\painte_cg\reta.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"reta.h"
+

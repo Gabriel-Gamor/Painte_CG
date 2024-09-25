@@ -44,7 +44,7 @@ Com o objeto selecionado de acordo com o menu de contexto aperte as seguintes te
 - L: Aumenta o objeto selecionado.(exceto o Ponto)
 - K: Diminui o objeto selecionado para baixo.
 - R: Rotaciona o objeto selecionado em sentido horário.(o Ponto é rotacionado  ao redor da origem)
-- E: Rotaciona o objeto selecionado em sentido horário.(o Ponto é rotacionado  ao redor da origem)
+- E: Rotaciona o objeto selecionado em sentido anti-horário.(o Ponto é rotacionado  ao redor da origem)
 - M: Reflete o objeto como base na horigem
 - N: Reflete o objeto com base o Eixo Y
 - C: Cisalha o poligono em x

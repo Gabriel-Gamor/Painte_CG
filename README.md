@@ -47,8 +47,8 @@ Com o objeto selecionado de acordo com o menu de contexto aperte as seguintes te
 - E: Rotaciona o objeto selecionado em sentido anti-horário.(o Ponto é rotacionado  ao redor da origem)
 - M: Reflete o objeto como base na origem
 - N: Reflete o objeto com base o Eixo Y
-- C: Cisalha o poligono em x
-- V: Cisalha o poligono em Y
+- C: Cisalha o polígono em x
+- V: Cisalha o polígono em Y
 - A: Realiza uma animação com os objetos
   
   
